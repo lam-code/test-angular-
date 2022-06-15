@@ -1,0 +1,6 @@
+.face-snap-card {
+    width: 35%;
+}
+.face-snap-card >img {
+  width: 300%;
+}
